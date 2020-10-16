@@ -35,6 +35,7 @@ Toast메세지로 입력되지 않은 값이 있음을 알려준다.
 
 ![second_success](https://user-images.githubusercontent.com/53042824/96276336-cd4e1d80-100d-11eb-8d70-17039260fec2.png)
 
+(과제완료 10/17)- 하지만 보완필요
 
 -심화과제 1
 
